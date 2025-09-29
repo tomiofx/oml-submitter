@@ -1,0 +1,2 @@
+bc1qexampleaddress0000000000000000000000000
+1ExampleLegacyAddress00000000000
